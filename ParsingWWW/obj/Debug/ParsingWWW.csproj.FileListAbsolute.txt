@@ -1,0 +1,7 @@
+C:\Users\biuro\source\repos\ParsingWWW\ParsingWWW\obj\Debug\ParsingWWW.csprojResolveAssemblyReference.cache
+C:\Users\biuro\source\repos\ParsingWWW\ParsingWWW\obj\Debug\ParsingWWW.csproj.CoreCompileInputs.cache
+C:\Users\biuro\source\repos\ParsingWWW\ParsingWWW\bin\Debug\ParsingWWW.exe.config
+C:\Users\biuro\source\repos\ParsingWWW\ParsingWWW\bin\Debug\ParsingWWW.exe
+C:\Users\biuro\source\repos\ParsingWWW\ParsingWWW\bin\Debug\ParsingWWW.pdb
+C:\Users\biuro\source\repos\ParsingWWW\ParsingWWW\obj\Debug\ParsingWWW.exe
+C:\Users\biuro\source\repos\ParsingWWW\ParsingWWW\obj\Debug\ParsingWWW.pdb
